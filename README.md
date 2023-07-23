@@ -1,7 +1,7 @@
 # Note V2
 
 Overview:
-NoteKeeper is a versatile and intuitive notes app that will revolutionize the way you organize and manage your thoughts, ideas, and important information. Note V2 is similar to Note V1 but has authentication support and allows users to attach images to each note.
+Note V2 is a versatile and intuitive notes app that will revolutionize the way you organize and manage your thoughts, ideas, and important information. Note V2 is similar to Note V1 but has authentication support and allows users to attach images to each note.
 
 ![Screen Recording 2023-07-23 at 8 05 35 AM](https://github.com/HussainAbuwala/amplify-react-graphql/assets/77569166/b364a559-6980-467f-bd3f-dec4245b3e18)
 
